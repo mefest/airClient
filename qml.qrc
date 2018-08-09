@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>imports/Theme/qmldir</file>
+        <file>imports/Theme/Theme.qml</file>
+        <file>LCDMN___.TTF</file>
+        <file>img/thermometr.svg</file>
+        <file>img/power.svg</file>
+        <file>img/fan-off.svg</file>
+        <file>img/fan.svg</file>
+        <file>img/fire.svg</file>
+        <file>img/ice-cream.svg</file>
+        <file>img/sun.svg</file>
+        <file>img/snowflake.svg</file>
+        <file>img/wind.svg</file>
+    </qresource>
+</RCC>
